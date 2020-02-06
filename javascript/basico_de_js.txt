@@ -1,0 +1,11 @@
+Variáveis em JS, palavras-chave: var, let e const
+
+Imutável: const
+Mutável: var e let
+
+Escopo:
+var - função/global
+let - bloco
+const - bloco
+
+Dar prioridade de uso nessa ordem: const, let [E NUNCA USAR O VAR].
